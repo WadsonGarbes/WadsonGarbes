@@ -1,4 +1,4 @@
-# Wadson Garbes - Software Engineer in Test
+# Software Engineer in Test
 ## Development Stack
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
